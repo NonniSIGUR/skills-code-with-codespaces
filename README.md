@@ -59,8 +59,7 @@ To begin developing using GitHub Codespaces, you can create a codespace from a t
 1. Replace the **h1** header with the below:
 
    ```html
-   <h1>Hello from the codespace!</h1>
-   ```
+<h1>Hello from the codespace!</h1>   ```
 
 1. Save the file.
    > **Note**: The file should autosave.
